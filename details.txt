@@ -1,0 +1,65 @@
+Monitor	Channel	Genotype	Sex	Treatment
+5	ch1	SSS	Female	2mM His
+5	ch2	SSS	Female	8mM His
+5	ch3	SSS	Female	VEH
+5	ch4	Rye	Female	2mM His
+5	ch5	Rye	Female	8mM His
+5	ch6	Rye	Female	VEH
+5	ch7	Fmn	Female	2mM His
+5	ch8	Fmn	Female	8mM His
+5	ch9	Fmn	Female	VEH
+5	ch10	Iso	Female	2mM His
+5	ch11	Iso	Female	8mM His
+5	ch12	Iso	Female	VEH
+5	ch13	SSS	Female	2mM His
+5	ch14	SSS	Female	8mM His
+5	ch15	SSS	Female	VEH
+5	ch16	Rye	Female	2mM His
+5	ch17	Rye	Female	8mM His
+5	ch18	Rye	Female	VEH
+5	ch19	Fmn	Female	2mM His
+5	ch20	Fmn	Female	8mM His
+5	ch21	Fmn	Female	VEH
+5	ch22	Iso	Female	2mM His
+5	ch23	Iso	Female	8mM His
+5	ch24	Iso	Female	VEH
+5	ch25	SSS	Female	2mM His
+5	ch26	SSS	Female	8mM His
+5	ch27	SSS	Female	VEH
+5	ch28	SSS	Female	2mM His
+5	ch29	SSS	Female	8mM His
+5	ch30	SSS	Female	VEH
+5	ch31	NA	NA	NA
+5	ch32	NA	NA	NA
+6	ch1	SSS	Female	2mM His
+6	ch2	SSS	Female	8mM His
+6	ch3	SSS	Female	VEH
+6	ch4	Rye	Female	2mM His
+6	ch5	Rye	Female	8mM His
+6	ch6	Rye	Female	VEH
+6	ch7	Fmn	Female	2mM His
+6	ch8	Fmn	Female	8mM His
+6	ch9	Fmn	Female	VEH
+6	ch10	Iso	Female	2mM His
+6	ch11	Iso	Female	8mM His
+6	ch12	Iso	Female	VEH
+6	ch13	SSS	Female	2mM His
+6	ch14	SSS	Female	8mM His
+6	ch15	SSS	Female	VEH
+6	ch16	Rye	Female	2mM His
+6	ch17	Rye	Female	8mM His
+6	ch18	Rye	Female	VEH
+6	ch19	Fmn	Female	2mM His
+6	ch20	Fmn	Female	8mM His
+6	ch21	Fmn	Female	VEH
+6	ch22	Iso	Female	2mM His
+6	ch23	Iso	Female	8mM His
+6	ch24	Iso	Female	VEH
+6	ch25	SSS	Female	2mM His
+6	ch26	SSS	Female	8mM His
+6	ch27	SSS	Female	VEH
+6	ch28	SSS	Female	2mM His
+6	ch29	SSS	Female	8mM His
+6	ch30	SSS	Female	VEH
+6	ch31	NA	NA	NA
+6	ch32	NA	NA	NA
